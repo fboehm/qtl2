@@ -7,3 +7,5 @@ Makefile$
 ^inst/scripts/.+\.sqlite$
 ^\.RData$
 ^inst/scripts/\.RData$
+^.*\.Rproj$
+^\.Rproj\.user$
